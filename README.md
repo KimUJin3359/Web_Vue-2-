@@ -35,14 +35,14 @@
   
   >> [props를 활용한 프로젝트 실습](https://github.com/KimUJin3359/Web_Vue-2-/tree/master/project002/src)
     
-    - App.vue -> FriedChicken(Component) -> Fry(Component) -> Chicken(Component)
+      - App.vue -> FriedChicken(Component) -> Fry(Component) -> Chicken(Component)
   
 - emit : 자식에서 부모로 데이터 및 이벤트를 전달할 때 사용
   - 하위 컴포넌트 -> 상위 컴포넌트 데이터 전달
   
   >> [emit을 활용한 프로젝트 실습](https://github.com/KimUJin3359/Web_Vue-2-/tree/master/project003/src)
   
-    - App.vue -> 라우팅을 통한 /friedChicken 페이지(View) -> Fry(Component) -> Chicken(Component)
+      - App.vue -> 라우팅을 통한 /friedChicken 페이지(View) -> Fry(Component) -> Chicken(Component)
 
 ### Vuex
 - 개요
