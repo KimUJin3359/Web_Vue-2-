@@ -4,6 +4,11 @@
 - vue-cli global 설치 : npm i -g @vue/cli
   - @vue가 version 2
 - 프로젝트 생성 : vue create (프로젝트 이름)
+  - Manually select features
+    - Choose Vue version, Babel, Router, Vuex
+    - 2.x
+    - Yes
+    - In package.json  
 - 구성
   - assets : 이미지 파일, 음악 파일 등 각종 작업물들을 저장해두는 곳
   - **components** : module과 비슷한 역할을 하는(**재사용**을 하기위한) component들을 만드는 곳
